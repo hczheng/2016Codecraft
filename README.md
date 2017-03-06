@@ -1,7 +1,7 @@
 # 华为codecraft算法大赛源码 #
 
-大赛官网：**[华为codecraft算法大赛](http://codecraft.huawei.com/home/detail)**
-
+大赛官网：**[华为codecraft算法大赛](http://codecraft.huawei.com/home/detail)**  
+赛题思路：**[华为codecraft算法大赛---寻路](http://blog.csdn.net/sb19931201/article/details/52496925)**
 
 ## 代码说明 ##
 
